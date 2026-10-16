@@ -4,7 +4,7 @@
 
 请说明 iOS 版本、文件格式、操作步骤和错误提示。无需发送原文件；公开反馈中请勿附上私人文件、密码或付款信息。
 
-**如何导入？** 文件页点「+」，或从其他 App 分享，选择「存入 OpenKit」。
+**如何打开？** 文件页点「+」，或在其他 App 选「用 OpenKit 打开」。分享菜单里的「用 OpenKit 查看」会直接预览并保存文件。
 
 **支持哪些压缩包？** ZIP、常见未加密 RAR / RAR5 / 7z；支持传统密码 ZIP。加密 RAR / 7z、分卷和部分特殊变体暂不支持。可创建 ZIP，不创建 RAR / 7z。
 
@@ -20,7 +20,7 @@
 
 Email us with your iOS version, file format, steps, and error message. Do not post private files, passwords, or payment details in public issues.
 
-- Import with **+** in Files, or **Save to OpenKit** in another app’s share menu.
+- Use **+** in Files or **Open in OpenKit**. **View in OpenKit** in the share menu previews and saves the file immediately.
 - ZIP and common unencrypted RAR/RAR5/7z are supported. Traditional password ZIP is supported; encrypted RAR/7z, split archives, and some variants are not. Creation is ZIP only.
 - Free includes 10 successful library extractions or ZIP creations per device per calendar month. A batch extraction counts once. Failures, cancellations, browsing, and temporary previews do not count.
 - Edits create copies. Processing is local. Cloud imports, exports, and backups follow your chosen services and settings. Recover deleted files in Settings within 30 days.
